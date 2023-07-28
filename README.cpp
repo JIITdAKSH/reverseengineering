@@ -1,3 +1,5 @@
-# reverseengineering
-q3lab1
-1st changes
+#include<iostream>
+using namespace std;
+int main ()
+{cout<<"hello world"<<endl;
+}
